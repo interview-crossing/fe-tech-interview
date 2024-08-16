@@ -43,7 +43,7 @@
 - 이벤트 루프
 - micro task queue 동작 과정
 - scopes
-- 클로저
+- 클로저 ✔
 - this
 - 일반함수와 화살표 함수 차이
 
