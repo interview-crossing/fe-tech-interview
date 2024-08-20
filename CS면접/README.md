@@ -40,7 +40,7 @@
 - let과 var 차이
 - forEach와 map 차이
 - 호이스팅 ✔
-- 이벤트 루프
+- 이벤트 루프 ✔
 - micro task queue 동작 과정
 - scopes
 - 클로저 ✔
