@@ -37,7 +37,7 @@
 - 콜백함수란
 - Promise와 Async/Await의 차이점
 - 비동기 로직 동작원리
-- let과 var 차이
+- let과 var 차이 ✔️
 - forEach와 map 차이
 - 호이스팅 ✔
 - 이벤트 루프 ✔
