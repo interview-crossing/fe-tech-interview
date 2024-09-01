@@ -11,7 +11,7 @@
 - 프로세스와 스레드의 차이점
 - 멀티스레딩의 장단점
 - 네트워크에서 TCP와 UDP의 차이점과 사용되는 상황 ✔
-- CORS는 무엇이고 해결 방법
+- CORS는 무엇이고 해결 방법 ✔
 - HTTP 메소드 종류와 GET과 POST의 차이 ✔
 - HTTP와 HTTPS 차이 ✔
 - Restful API
