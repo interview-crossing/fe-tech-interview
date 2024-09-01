@@ -14,7 +14,7 @@
 - CORS는 무엇이고 해결 방법 ✔
 - HTTP 메소드 종류와 GET과 POST의 차이 ✔
 - HTTP와 HTTPS 차이 ✔
-- Restful API
+- Restful API ✔
 - 디자인 패턴
 
 <br />
