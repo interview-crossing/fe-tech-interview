@@ -27,7 +27,7 @@
 - UI.UX
 - 반응형 웹의 3요소 ✔️
 - Flex와 Grid 차이 ✔️
-- 버블링과 캡쳐링
+- 버블링과 캡쳐링 ✔️
 - event.target과 event.current.target의 차이
 
 <br />
@@ -46,6 +46,7 @@
 - 클로저 ✔
 - this ✔
 - 일반함수와 화살표 함수 차이 ✔️
+- 원시값과 참조값(array, object)의 차이점(메모리 관점에서) ✔️
 
 <br />
 
@@ -55,7 +56,6 @@
 - 라이프사이클
 - Key Props 사용 이유
 - useCallback / useMemo
-- 원시값과 참조값(array, object)의 차이점(메모리 관점에서)
 - 본인이 생각하는 좋은 컴포넌트란
 - setState는 동기? 비동기? setState가 적용되는 과정 설명
 - React 18과 이전의 차이
