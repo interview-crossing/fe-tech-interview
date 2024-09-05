@@ -52,7 +52,7 @@
 ### REACT
 
 - React의 장단점
-- 라이프사이클
+- 라이프사이클 ✔
 - Key Props 사용 이유
 - useCallback / useMemo
 - 원시값과 참조값(array, object)의 차이점(메모리 관점에서)
