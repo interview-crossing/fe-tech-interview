@@ -53,7 +53,7 @@
 ### REACT
 
 - React의 장단점
-- 라이프사이클
+- 라이프사이클 ✔
 - Key Props 사용 이유
 - useCallback / useMemo
 - 본인이 생각하는 좋은 컴포넌트란
