@@ -1,0 +1,25 @@
+# automatic batching
+
+-   배칭: 여러상태 업데이트를 한번에 모아 처리하는방식
+-   18버전이 되면서 네트워크 요청내에서 발생하는 여러 상태 업데이트도 하나의 렌더링으로 처리가능
+-   18버전 이후에도 배칭이 존재했지만 , 18버전 이후에는 클릭과 같은 브라우저 이벤트에서만 작동 되었고 api호출시 콜백에서는 작동되지 않았음
+
+# useTransition
+
+-   상테 업데이트에 대한 우선순위를 정해줄수있음
+
+```jsx
+import { startTransition } from "react";
+// Urgent: Show what was typed
+setInputValue(input);
+
+// Mark any state updates inside as transitions
+startTransition(() => {
+    // Transition: Show the results
+    setSearchQuery(input);
+});
+```
+
+-   startTransition으로 둘러싸인 부분은 클릭이나 키 입력에 의해 우선순위 높은 상태 업데이트가 발생하게 되면 렌더링 업데이트가 중단되고 키 입력이 다 끝난 이후의 업데이트만 발생.
+-   <Spinner/>와 같은 UI를 표시 가능
+-   즉 비동기 처리 작업시 작업의 진행상태를 알수있고, 로딩상태도 표시할수있음
