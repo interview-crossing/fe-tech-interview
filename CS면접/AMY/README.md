@@ -28,7 +28,7 @@
 - 반응형 웹의 3요소 ✔️
 - Flex와 Grid 차이 ✔️
 - 버블링과 캡쳐링 ✔️
-- event.target과 event.current.target의 차이
+- event.target과 event.current.target의 차이 ✔
 
 <br />
 
