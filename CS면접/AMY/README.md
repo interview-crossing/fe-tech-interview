@@ -21,7 +21,7 @@
 
 ### HTML/CSS
 
-- HTML 렌더링 도중 JavaScript가 실행되면 렌더링이 멈추는 이유
+- HTML 렌더링 도중 JavaScript가 실행되면 렌더링이 멈추는 이유 ✔
 - CSS 선택자 우선순위 ✔
 - Attribute와 Property의 차이 ✔
 - UI.UX ✔
