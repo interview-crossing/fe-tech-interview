@@ -21,14 +21,14 @@
 
 ### HTML/CSS
 
-- HTML 렌더링 도중 JavaScript가 실행되면 렌더링이 멈추는 이유
+- HTML 렌더링 도중 JavaScript가 실행되면 렌더링이 멈추는 이유 ✔
 - CSS 선택자 우선순위 ✔
 - Attribute와 Property의 차이 ✔
 - UI.UX ✔
 - 반응형 웹의 3요소 ✔️
 - Flex와 Grid 차이 ✔️
 - 버블링과 캡쳐링 ✔️
-- event.target과 event.current.target의 차이
+- event.target과 event.current.target의 차이 ✔
 
 <br />
 
