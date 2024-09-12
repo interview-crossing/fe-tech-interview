@@ -55,7 +55,7 @@
 - React의 장단점
 - 라이프사이클 ✔
 - Key Props 사용 이유
-- useCallback / useMemo
+- useCallback / useMemo ✔
 - 본인이 생각하는 좋은 컴포넌트란
 - setState는 동기? 비동기? setState가 적용되는 과정 설명
 - React 18과 이전의 차이
