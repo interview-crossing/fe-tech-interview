@@ -58,6 +58,6 @@
 - useCallback / useMemo
 - 본인이 생각하는 좋은 컴포넌트란
 - setState는 동기? 비동기? setState가 적용되는 과정 설명
-- React 18과 이전의 차이
+- React 18과 이전의 차이 ✔
 
 <br />
