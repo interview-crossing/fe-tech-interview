@@ -16,6 +16,7 @@
 - HTTP와 HTTPS 차이 ✔
 - Restful API ✔
 - 디자인 패턴
+- 웹 프로토콜 ✔
 
 <br />
 
