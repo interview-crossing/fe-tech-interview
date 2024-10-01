@@ -1,4 +1,4 @@
-## 🧐 Additional Informations
+## 🧐 Additional Information
 
 #### 공통점
 

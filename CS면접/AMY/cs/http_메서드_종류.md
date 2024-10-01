@@ -1,4 +1,4 @@
-## 🧐 Additional Informations
+## 🧐 Additional Information
 
 메소드(Method)는 웹 애플리케이션에서 서버와 클라이언트 간의 통신에 사용 되는 HTTP 요청 방식을 나타냅니다.
 

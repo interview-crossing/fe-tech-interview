@@ -1,4 +1,4 @@
-## 🧐 Additional Informations
+## 🧐 Additional Information
 
 인라인 스타일 **>** Id 선택자 **>** 클래스 선택자 / 속성 선택자 / 가상 클래스 선택자 **>** 요소 선택자
 

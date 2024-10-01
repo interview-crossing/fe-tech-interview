@@ -1,4 +1,4 @@
-## 🧐 Additional Informations
+## 🧐 Additional Information
 
 #### 인터넷 프로토콜 스위트 (internet protocol suite)
 

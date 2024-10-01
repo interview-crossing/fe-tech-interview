@@ -1,4 +1,4 @@
-## 🧐 Additional Informations
+## 🧐 Additional Information
 
 효율적인 리액트 코드를 위해서는 여러가지 방법이 있는데, 간단하게 적용할 수 있는 방법은 바로 '메모이제이션'을 활용하는 것이다. <br />
 대표적으로 useMemo와 useCallback 훅이 있다. <br />

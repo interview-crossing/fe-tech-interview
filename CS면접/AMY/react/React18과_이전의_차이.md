@@ -1,4 +1,4 @@
-## 🧐 Additional Informations
+## 🧐 Additional Information
 
 ### 자동 배칭(Automatic Batching)
 

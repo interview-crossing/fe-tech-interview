@@ -1,4 +1,4 @@
-## 🧐 Additional Informations
+## 🧐 Additional Information
 
 UI/UX는 디지털 제품이나 서비스를 디자인할 때 중요한 두 가지 개념입니다. <br />
 UI(User Interface)와 UX(User Experience)는 서로 밀접하게 관련되어 있지만, 각각 다른 측면을 다룹니다.
