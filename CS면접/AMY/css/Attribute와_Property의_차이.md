@@ -1,4 +1,4 @@
-## 🧐 Additional Informations
+## 🧐 Additional Information
 
 ### HTML Attribute (속성)
 
@@ -56,6 +56,7 @@ HTML 속성과 CSS 프로퍼티는 종종 함께 사용되며, 자바스크립�
   ```
 - **자바스크립트를 통한 동적 변경**
   자바스크립트를 사용하여 HTML 속성과 CSS 프로퍼티를 동적으로 변경 가능
+
   ```jsx
   const element = document.getElementById("myDiv");
 

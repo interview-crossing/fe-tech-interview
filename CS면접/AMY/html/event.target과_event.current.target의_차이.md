@@ -1,3 +1,5 @@
+## 🧐 Additional Information
+
 ### event.target과 event.current.target의 차이
 
 ###### 요약
